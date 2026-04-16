@@ -1,48 +1,64 @@
-# 🌍 Volta ao Mundo — Colômbia
+# 🇨🇴 Projeto Volta ao Mundo – Colômbia
+
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow">
-  <img src="https://img.shields.io/badge/version-1.0-purple">
+  <b>Explorando cultura, história e curiosidades da Colômbia</b><br>
+  Uma experiência digital educativa e interativa
 </p>
-> Uma experiência web interativa desenvolvida para explorar a cultura, história e curiosidades da Colômbia de forma moderna, acessível e visualmente envolvente.
+
 ---
-## 🚀 Acesse o Projeto
+
+## 📌 Sobre o Projeto
+
+O *Volta ao Mundo – Colômbia* é um projeto acadêmico desenvolvido com o objetivo de apresentar, de forma *visual, interativa e organizada*, os principais aspectos culturais e históricos do país.
+
+A proposta é transformar o aprendizado em uma experiência mais dinâmica, tornando o conteúdo acessível e interessante para qualquer público.
+
+---
+
 <p align="center">
   <a href="https://gust4lin.github.io/volta-ao-mundo-com-Bootstrap/">
-    <img src="https://img.shields.io/badge/🔗%20Ver%20Projeto%20Online-000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Projeto-Online-blue?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
----
-## 📌 Sobre o Projeto
-O *Volta ao Mundo — Colômbia* é uma aplicação web que tem como objetivo apresentar a Colômbia por meio de uma experiência digital organizada e intuitiva.
 
-A proposta do projeto é transformar informações culturais, históricas e naturais em uma navegação fluida, permitindo que o usuário explore o país como em uma pequena viagem virtual pelos Andes, pelo Caribe e pela Amazônia colombiana.
+---
 
-A estrutura do conteúdo foi planejada para equilibrar *informação, estética e leveza*, reunindo desde o café e as esmeraldas até o ritmo da salsa, o carnaval e as praias paradisíacas.
----
-## 🚀 Funcionalidades
-- 📱 Interface totalmente responsiva
-- 🧭 Navegação simples e intuitiva
-- 🎭 Conteúdo cultural e histórico organizado
-- 📍 Destaque para pontos turísticos relevantes
-- 💡 Curiosidades com abordagem leve e dinâmica
-- 🌐 Estrutura preparada para expansão (novos países)
----
-## 🛠️ Tecnologias Utilizadas
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22"> <strong>HTML5</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22"> <strong>CSS3</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="22"> <strong>Bootstrap</strong>
-</p>
----
 ## 🎯 Objetivo
-Este projeto foi desenvolvido com foco acadêmico, visando:
-- Aplicar conceitos de desenvolvimento web
-- Praticar organização e estruturação de projetos
-- Criar uma interface moderna, funcional e responsiva
-- Desenvolver uma base escalável para futuras expansões
-- Garantir compatibilidade entre *Desktop* e *Mobile*
+
+> Proporcionar uma navegação intuitiva e educativa, explorando a Colômbia por meio de conteúdos culturais, históricos e curiosidades.
+
 ---
-## 🖼️ Preview do Projeto
-<p align="center">
-  <em>🚧 Preview do site será adicionado em breve</em>
-</p>
+
+## ✨ Conteúdos Abordados
+
+- 🇨🇴 Cultura colombiana  
+- 🏛️ História do país  
+- 🎉 Festas e tradições  
+- 🍽️ Gastronomia típica  
+- 🌎 Pontos turísticos  
+- 📚 Curiosidades organizadas por categorias  
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 🎨 Destaques do Projeto
+
+- Interface visual organizada  
+- Conteúdo bem estruturado  
+- Navegação simples e intuitiva  
+- Experiência educativa e interativa  
+
+---
+
+## 💡 Observações
+
+- Projeto com foco educacional  
+- Conteúdo apresentado de forma leve e acessível  
+- Estrutura preparada para expansão futura
