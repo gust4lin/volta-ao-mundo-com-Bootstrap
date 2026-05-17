@@ -44,7 +44,6 @@ A proposta é transformar o aprendizado em uma experiência mais dinâmica, torn
 
 - HTML5  
 - CSS3  
-- JavaScript  
 
 ---
 
